@@ -1,8 +1,8 @@
 {
   "tornado": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 900,
     "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
@@ -106,7 +106,7 @@
   "coldsnap": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
@@ -162,7 +162,7 @@
   "blight": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
@@ -330,7 +330,7 @@
   "alphabeavers": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
@@ -354,16 +354,16 @@
   "militaryaid": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 3,
-    "LocalCooldown": 300,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "raid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 900,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 1800,
     "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
   },
@@ -427,8 +427,8 @@
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "GlobalCooldown": 1800,
+    "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
   },
   "disease": {
