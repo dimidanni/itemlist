@@ -2,8 +2,8 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 1600,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -47,7 +47,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,27 +57,17 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -87,7 +77,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -111,16 +101,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "madanimal",
-		"price": 200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "psychicsoothe",
 		"price": 250,
 		"karmatype": "Good"
@@ -128,7 +108,7 @@
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "herdmigration",
@@ -148,7 +128,7 @@
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "travelergroup",
@@ -172,12 +152,12 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -186,8 +166,23 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -231,8 +226,13 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "hodlbotvote",
+		"price": 1200,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 15000,
 		"karmatype": "Good"
 	},
 	{
