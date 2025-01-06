@@ -401,11 +401,11 @@
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1863,7 +1863,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 15000,
+      "addPrice": 50000,
       "removePrice": 500,
       "degree": 0,
       "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
@@ -1944,131 +1944,7 @@
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 0,
-      "description": "Timmy spent his entire life among trees and wild animals. It definitely changed his behavior. Timmy won't be upset if he eats raw food without a table. he doesn't care about sleeping on the floor, outside or having damaged clothes, although he prefers to wear at least something.",
-      "stats": [
-        "Artistic meditation focus type disabled.",
-        "Natural meditation focus type allowed."
-      ],
-      "conflicts": [
-        "greedy",
-        "jealous",
-        "gourmand"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "greedy",
-          "jealous",
-          "gourmand"
-        ],
-        "stats": [
-          "Artistic meditation focus type disabled.",
-          "Natural meditation focus type allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Elders Faction",
-        "karmaTypeForAdding": null
-      },
-      "defName": "NatureHarmony",
-      "name": "inharmonywithnature"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
-      "stats": [
-        "+2.0 shooting accuracy",
-        "-15% aiming time",
-        "+4.0 melee hit chance",
-        "+6.0 melee dodge chance",
-        "-10% incoming damage multiplier",
-        "-10% trap spring chance",
-        "-90% mental break threshold",
-        "+10% pain shock threshold",
-        "x5% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2.0 shooting accuracy",
-          "-15% aiming time",
-          "+4.0 melee hit chance",
-          "+6.0 melee dodge chance",
-          "-10% incoming damage multiplier",
-          "-10% trap spring chance",
-          "-90% mental break threshold",
-          "+10% pain shock threshold",
-          "x5% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DankPyon_Fighter",
-      "name": "fighter"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man.",
-      "stats": [
-        "+6.0 shooting accuracy",
-        "-25% aiming time",
-        "+8.0 melee hit chance",
-        "+12.0 melee dodge chance",
-        "+10% medical tend quality",
-        "-30% incoming damage multiplier",
-        "+0.30 move speed",
-        "-20% trap spring chance",
-        "-15% mental break threshold",
-        "+30% pain shock threshold",
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+6.0 shooting accuracy",
-          "-25% aiming time",
-          "+8.0 melee hit chance",
-          "+12.0 melee dodge chance",
-          "+10% medical tend quality",
-          "-30% incoming damage multiplier",
-          "+0.30 move speed",
-          "-20% trap spring chance",
-          "-15% mental break threshold",
-          "+30% pain shock threshold",
-          "x25% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DankPyon_Veteran",
-      "name": "veteran"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2078,257 +1954,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
+      "defName": "VPE_Thrall",
+      "name": "thrall"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [
-        "workaholic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "workaholic"
-        ],
-        "stats": [
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AbsentMinded",
-      "name": "absent-minded"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
-      "stats": [
-        "x115% research speed"
-      ],
-      "conflicts": [
-        "slowlearner"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "slowlearner"
-        ],
-        "stats": [
-          "x115% research speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Eccentric",
-      "name": "eccentric"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
-      "stats": [
-        "x65% global work speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x65% global work speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Perfectionist",
-      "name": "perfectionist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
-      "stats": [],
-      "conflicts": [
-        "brave",
-        "bloodlust",
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "brave",
-          "bloodlust",
-          "brawler"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Coward",
-      "name": "coward"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
-      "stats": [
-        "-20% mental break threshold",
-        "+20% pain shock threshold",
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [
-        "coward",
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "coward",
-          "iron-willed",
-          "steadfast",
-          "nervous",
-          "volatile",
-          "wimp"
-        ],
-        "stats": [
-          "-20% mental break threshold",
-          "+20% pain shock threshold",
-          "x25% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Brave",
-      "name": "brave"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
-      "stats": [],
-      "conflicts": [
-        "nimble"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "nimble"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Clumsy",
-      "name": "clumsy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
-      "stats": [
-        "+10.0C max comfortable temperature"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10.0C max comfortable temperature"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_HeatInclined",
-      "name": "heatinclined"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
-      "stats": [
-        "-10.0C min comfortable temperature"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-10.0C min comfortable temperature"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ColdInclined",
-      "name": "coldinclined"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2338,181 +1976,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Humanoid Alien Races",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_HeavySleeper",
-      "name": "heavysleeper"
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
-      "stats": [],
-      "conflicts": [
-        "slob"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "slob"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Neat",
-      "name": "neat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
-      "stats": [],
-      "conflicts": [
-        "neat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "neat"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Slob",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
-      "stats": [],
-      "conflicts": [
-        "absent-minded"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "absent-minded"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Workaholic",
-      "name": "workaholic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
-      "stats": [],
-      "conflicts": [
-        "squeamish"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "squeamish"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_IronStomach",
-      "name": "ironstomach"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
-      "stats": [],
-      "conflicts": [
-        "animalhater"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "animalhater"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AnimalLover",
-      "name": "animallover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
-      "stats": [],
-      "conflicts": [
-        "animallover",
-        "catperson",
-        "dogperson",
-        "menagerist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "animallover",
-          "catperson",
-          "dogperson",
-          "menagerist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AnimalHater",
-      "name": "animalhater"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2522,209 +1998,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Humanoid Alien Races",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_BigBoned",
-      "name": "big-boned"
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [
-        "submissive"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "submissive"
-        ],
-        "stats": [
-          "x25% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Rebel",
-      "name": "rebel"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [
-        "x200% global certainty loss factor"
-      ],
-      "conflicts": [
-        "rebel"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "rebel"
-        ],
-        "stats": [
-          "x200% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Submissive",
-      "name": "submissive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kind"
-        ],
-        "stats": [
-          "x25% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Vengeful",
-      "name": "vengeful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
-      "stats": [
-        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
-      ],
-      "conflicts": [
-        "bodymodder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodymodder"
-        ],
-        "stats": [
-          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Technophobe",
-      "name": "technophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
-      "stats": [],
-      "conflicts": [
-        "anxious"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "anxious"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_FunLoving",
-      "name": "fun-loving"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
-      "stats": [
-        "-50% global learning factor",
-        "-50.00% social impact",
-        "x300% global certainty loss factor"
-      ],
-      "conflicts": [
-        "academian",
-        "eccentric",
-        "prodigy",
-        "tycoon",
-        "fastlearner",
-        "toosmart"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "academian",
-          "eccentric",
-          "prodigy",
-          "tycoon",
-          "fastlearner",
-          "toosmart"
-        ],
-        "stats": [
-          "-50% global learning factor",
-          "-50.00% social impact",
-          "x300% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Dunce",
-      "name": "dunce"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "degree": 1,
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2734,171 +2020,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_MartialArtist",
-      "name": "martialartist"
+      "defName": "PJ_ForceSensitive",
+      "name": "forcesensitive"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
-      "stats": [],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Snob",
-      "name": "snob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
-      "stats": [],
-      "conflicts": [
-        "desensitized",
-        "ironstomach",
-        "bloodlust"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "desensitized",
-          "ironstomach",
-          "bloodlust"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Squeamish",
-      "name": "squeamish"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
-      "stats": [
-        "Only mental break \"VTE_PanicFreezing\" allowed.",
-        "x200% global certainty loss factor"
-      ],
-      "conflicts": [
-        "fun-loving"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "fun-loving"
-        ],
-        "stats": [
-          "Only mental break \"VTE_PanicFreezing\" allowed.",
-          "x200% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Anxious",
-      "name": "anxious"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [
-        "x200% global certainty loss factor"
-      ],
-      "conflicts": [
-        "prude",
-        "asexual"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "prude",
-          "asexual"
-        ],
-        "stats": [
-          "x200% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Insatiable",
-      "name": "insatiable"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [
-        "insatiable",
-        "nudist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "insatiable",
-          "nudist"
-        ],
-        "stats": [
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Prude",
-      "name": "prude"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "degree": 2,
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2908,687 +2042,773 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_CouchPotato",
-      "name": "couchpotato"
+      "defName": "PJ_ForceSensitive",
+      "name": "forceapprentice"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "degree": 1,
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "dogperson"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "dogperson"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_CatPerson",
-      "name": "catperson"
+      "defName": "PJ_JediTrait",
+      "name": "jedi"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "degree": 2,
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "catperson"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "catperson"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_DogPerson",
-      "name": "dogperson"
+      "defName": "PJ_JediTrait",
+      "name": "jediknight"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
-      "stats": [
-        "+20% mental break threshold",
-        "x130% research speed"
-      ],
+      "degree": 3,
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "stats": [],
       "conflicts": [
-        "slowlearner"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "slowlearner"
-        ],
-        "stats": [
-          "+20% mental break threshold",
-          "x130% research speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Prodigy",
-      "name": "prodigy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
-      "stats": [
-        "x120% tame animal chance",
-        "x120% train animal chance"
-      ],
-      "conflicts": [
-        "animalhater"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "animalhater"
-        ],
-        "stats": [
-          "x120% tame animal chance",
-          "x120% train animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Menagerist",
-      "name": "menagerist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ChildOfSea",
-      "name": "oceanlover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ChildOfMountain",
-      "name": "mountainlover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
-      "stats": [
-        "+20% surgery success chance factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+20% surgery success chance factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_MadSurgeon",
-      "name": "madsurgeon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
-      "stats": [
-        "+4 melee"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 melee"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_DrunkenMaster",
-      "name": "drunkenmaster"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
-      "stats": [
-        "Only mental break \"VTE_Kleptomaniac\" allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Only mental break \"VTE_Kleptomaniac\" allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Kleptomaniac",
-      "name": "kleptomaniac"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
-      "stats": [],
-      "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "chemicalfascination",
-          "chemicalinterest",
-          "teetotaler"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_Stoner",
-      "name": "stoner"
+      "defName": "PJ_JediTrait",
+      "name": "jedimaster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "degree": 4,
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler"
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "chemicalfascination",
-          "chemicalinterest",
-          "teetotaler"
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_Lush",
-      "name": "lush"
+      "defName": "PJ_JediTrait",
+      "name": "jediconsular"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
-      "stats": [
-        "+0.2 foraged food amount"
-      ],
-      "conflicts": [
-        "undergrounder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "undergrounder"
-        ],
-        "stats": [
-          "+0.2 foraged food amount"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Wanderlust",
-      "name": "wanderlust"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
-      "stats": [
-        "x50% global work speed",
-        "x70% move speed",
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [
-        "heavysleeper"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "heavysleeper"
-        ],
-        "stats": [
-          "x50% global work speed",
-          "x70% move speed",
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Insomniac",
-      "name": "insomniac"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_WorldWeary",
-      "name": "worldweary"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [
-        "squeamish"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "squeamish"
-        ],
-        "stats": [
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Desensitized",
-      "name": "desensitized"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
-      "stats": [
-        "x70% eating speed"
-      ],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [
-          "x70% eating speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_RefinedPalate",
-      "name": "refinedpalate"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
-      "stats": [
-        "+4 intellectual",
-        "+4 medical",
-        "+20% medical tend quality"
-      ],
-      "conflicts": [
-        "slowlearner"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "slowlearner"
-        ],
-        "stats": [
-          "+4 intellectual",
-          "+4 medical",
-          "+20% medical tend quality"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Academian",
-      "name": "academian"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
-      "stats": [
-        "+4 mining",
-        "+4 construction",
-        "+20% mining yield",
-        "+20% construction speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 mining",
-          "+4 construction",
-          "+20% mining yield",
-          "+20% construction speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Groundbreaker",
-      "name": "groundbreaker"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
-      "stats": [
-        "+4 cooking",
-        "+4 artistic",
-        "-25.00% food poison chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 cooking",
-          "+4 artistic",
-          "-25.00% food poison chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Gastronomist",
-      "name": "gastronomist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
-      "stats": [
-        "+4 animals",
-        "+4 plants",
-        "+20% plant harvest yield",
-        "+20% butchery efficiency"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 animals",
-          "+4 plants",
-          "+20% plant harvest yield",
-          "+20% butchery efficiency"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Ecologist",
-      "name": "ecologist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
-      "stats": [
-        "+4 social",
-        "+4 crafting",
-        "+25.00% trade price improvement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 social",
-          "+4 crafting",
-          "+25.00% trade price improvement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Tycoon",
-      "name": "tycoon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
+      "degree": 1,
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "thinskinned"
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "thinskinned"
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_ThickSkinned",
-      "name": "thickskinned"
+      "defName": "PJ_SithTrait",
+      "name": "sith"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
+      "degree": 2,
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
       "stats": [],
       "conflicts": [
-        "thickskinned"
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "thickskinned"
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_ThinSkinned",
-      "name": "thinskinned"
+      "defName": "PJ_SithTrait",
+      "name": "sithinquisitor"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 3,
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithlord"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 4,
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithmaster"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 1,
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graypadawan"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 2,
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "grayjedi"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 3,
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graymaster"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 4,
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graysage"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 2,
+      "description": "Timmy has a very strong connection with the Force. he is extremely sensitive to psychic phenomena.",
+      "stats": [
+        "+80% psychic sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+80% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ForceSensitivty",
+      "name": "majorforcesensitivity"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
-      "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
-      "stats": [],
+      "degree": 1,
+      "description": "Timmy has a connection with the Force. A metaphysical, spiritual, binding, and ubiquitous power that held enormous importance for both the Jedi and Sith monastic orders.",
+      "stats": [
+        "+40% psychic sensitivity"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+40% psychic sensitivity"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Star Wars : The Force-Psycast",
         "karmaTypeForAdding": null
       },
-      "defName": "VTE_Schizoid",
-      "name": "schizoid"
+      "defName": "ForceSensitivty",
+      "name": "forcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": -1,
+      "description": "Timmy has a weaker connection to the Force compared to other force sensitives. he isn't as affected by psychic phenomena.",
+      "stats": [
+        "+20% psychic sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ForceSensitivty",
+      "name": "dullforcesensitivity"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 1,
+      "description": "Timmy has a very strong affinity with the light side of the Force.",
+      "stats": [
+        "+80% Lightside Attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+80% Lightside Attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "L_ForceAffinity",
+      "name": "majorlightsideaffinity"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 0,
+      "description": "Timmy has a strong affinity with the light side of the Force.",
+      "stats": [
+        "+40% Lightside Attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% Lightside Attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "L_ForceAffinity",
+      "name": "lightsideaffinity"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": -1,
+      "description": "Timmy has a weak affinity with the light side of the Force.",
+      "stats": [
+        "+20% Lightside Attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% Lightside Attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "L_ForceAffinity",
+      "name": "minorlightsideaffinity"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 1,
+      "description": "Timmy has a very strong affinity with the dark side of the Force.",
+      "stats": [
+        "+80% Darkside Corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+80% Darkside Corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "D_ForceAffinity",
+      "name": "majordarksideaffinity"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": 0,
+      "description": "Timmy has a strong affinity with the dark side of the Force.",
+      "stats": [
+        "+40% Darkside Corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% Darkside Corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "D_ForceAffinity",
+      "name": "darksideaffinity"
+    },
+    {
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 500,
+      "degree": -1,
+      "description": "Timmy has a weak affinity with the dark side of the Force.",
+      "stats": [
+        "+20% Darkside Corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% Darkside Corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "D_ForceAffinity",
+      "name": "minordarksideaffinity"
     }
   ],
   "races": [
@@ -3610,7 +2830,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 10000
     },
@@ -3634,6 +2854,138 @@
       "defName": "CreepJoiner",
       "enabled": false,
       "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Wookiees were a tall species of furry humanoids from the planet Kashyyyk,who could grow to a height of nearly three meters. They were covered from head to toe in a thick,shaggy coat of hair with water-shedding properties that notably came in shades of brown,black,gray,and white. The species had two sexes,female and male. The latter grew long beards in adult life. The average male weighed 150 kilograms while the average female weighed 100 kilograms. The Wookiees eye color ranged from blue to brown. Wookiees were big eaters,with the average adult requiring 3,500-6,000 calories a day of food. Their diet consisted of wild plants,berries,meat,and spices. They preferred their spices to be hot. While Wookiees did not like eating blosphi extract,it provided them with enough nutrition to survive. The literary collective term for Wookiees was a grove of Wookiees. Many of their kind were known to understand Galactic Basic but were unable to speak it due to their species' vocal structure. Wookiees had extendable claws which they used for climbing; using them for anything else violated the Wookiee honor code. Despite their fearsome appearance and volatile temperament,Wookiees were regarded as intelligent,sophisticated,loyal and trusting. When angered,Wookiees were known to descend into a berserker rage. Wookiees had an average lifespan of 400 standard years,and they appeared not to age over a span of fifty years. Their lifespans dramatically decreased due to the harsh working conditions in the spice mines of Kessel. During their prime growing years,Wookiees were often hungry,forcing them to eat whenever they could. They could learn to understand other languages,like Galactic Basic Standard,but they were physically unable to speak them due to their strange vocal chords. To those who had not learned to understand Shyriiwook,the Wookiee language,it appeared they spoke in a series of growls and purrs. Although a rare phenomenon,Force-sensitive Wookiees were possible and some joined the ranks of the Jedi,a source of great pride to their people. https://starwars.fandom.com/wiki/Wookiee",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": false,
+      "name": "Wookiee",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Native to the Expansion Region planet Shili but later found throughout the galaxy,the Togruta were a species of sentient humanoids whose skin spanned a vast array of colors,including,but not limited to,orange,red,white,and yellow. These characteristics were a result of evolution; Togruta coloration was helpful as a method of camouflage from predators. Their most notable features were the large organic head formations upon their heads; two large cone-like horns called montrals atop their skull,and three lekku,also known as headtails,that sprouted downward. Both a Togruta's lekku and montrals tended to grow until they reached maturity,with females generally having longer lekku than the males. The male's montrals,however,were more branched than the females. A Togruta's montrals allowed them to sense the movement of objects around them through echolocation,and could sense up to 82 feet. https://starwars.fandom.com/wiki/Togruta",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": false,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Rodians were a species of reptilian humanoids. They possessed large pupil-less eyes that could see in infrared spectrum. Indeed,the Pantoran Kevmo Zink suspected the Rodians and his people saw different spectrums of light,but he was not sure what the exact divide was. Rodians also had twin saucer-like antennae that detected vibrations and twitched atop their head. Rodians also had slender snouts,pointed ears,and a ridge of spines cresting their skulls. Their snouts were said to resemble those of tapirs. Green—but sometimes red,yellow,or turquoise—scales covered their bodies,and their skin had a rough,pebbly texture,except on the snout and hands. They were cold blooded and had green blood. Females were physically distinguished by their mammary glands,and some of them,like Greeata Jendowanian,were capable of growing long tresses. The Rodian hand featured five long,dexterous fingers with suction cups at the ends. The pads helped them cope with the variety of conditions associated with living in a swamp,and could be used to help them climb aquatic vegetation. The shape of the Rodian hand,however,was as such that if an object was designed for their species,it would be uncomfortable for a human to use. Their toes were a lot like their fingers: long and tipped by suction cups. Although they were oxygen breathers,Rodians could breathe an air saturated with Clouzon-36 without the assistance of a respirator. Rodians smelled rank to humans. starwars.fandom.com/wiki/Rodian",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": false,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Ewoks were sentient humanoids,averaging about one meter in height. Omnivorous,they were covered in fur from head to toe,with brown and black as the most common colors. Most Ewoks had solid-colored fur,though a few sported stripes. Ewoks had large,bright eyes,small humanoid noses,and hands that possessed two fingers and an opposable thumb. Despite their small size,Ewoks were physically strong enough to overpower combat-trained humans. https:/starwars.fandom.com/wiki/Ewok",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": false,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Twi'leks were a species of tall humanoids whose skin spanned a vast array of colors,including white,orange,yellow,green,pink,blue,purple,black,grey,and red. Their most distinctive feature was the pair of prehensile appendages that sprouted from the crown or base of their skulls,known as lekku,or head-tails. Although Twi'leks normally had two lekku,some individuals had four. Super sensitive lekku could grab and hold objects and react to the slightest touch. A damaged lekku could cause serious harm to a Twi'lek's health. The species had two sexes,male and female. While most males typically had ears with lobes resembling those of humans,some males had cone-shaped hearing organs located in the same place on the head,a trait customarily found in the females of the same species. Although Twi'leks naturally had blunt teeth,males typically sharpened them to points. Twi'leks were usually thin,although corpulent individuals were known to exist. Under normal circumstances,they generally had a higher body temperature than other humanoid species.They had even higher body temperatures when in fear. Twi'leks and humans could breed to create a hybrid of the two species,such as when shortly after the death of Kanan Jarrus,he and Hera Syndulla gave birth to a son who appeared mostly human but inherited his mother's green pigment in his hair and ears. He was born after the liberation of Lothal,which Syndulla lived to participate in. https://starwars.fandom.com/wiki/Twi%27lek",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": false,
+      "name": "Twi'lek",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "It's a trap! Also fish/lobster people from Star Wars. TODO",
+      "defName": "StarWarsRaces_MonCalamari",
+      "enabled": false,
+      "name": "MonCalamari",
       "price": 2917
     }
   ]

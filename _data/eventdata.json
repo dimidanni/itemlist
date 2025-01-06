@@ -410,7 +410,7 @@
   "manhunterpack": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 1800,
     "Mod": "Twitch Toolkit"
