@@ -952,13 +952,13 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "neutroamine",
@@ -1360,7 +1360,7 @@
       "abr": "psychicfoilhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsychicFoilHelmet",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "hood",
@@ -2452,7 +2452,7 @@
       "abr": "stelliccrown",
       "category": "Headgear",
       "defname": "Apparel_CrownStellic",
-      "price": 283
+      "price": -10
     },
     {
       "abr": "beret",
@@ -4306,7 +4306,7 @@
       "abr": "chitincuirass",
       "category": "Armor",
       "defname": "OuterRim_ChitinCuirass",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "chitinhelmet",
@@ -4318,7 +4318,7 @@
       "abr": "chitinpauldrons",
       "category": "Armor",
       "defname": "OuterRim_ChitinPauldrons",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clay",
@@ -5500,91 +5500,91 @@
       "abr": "imperialarmycap",
       "category": "Apparel",
       "defname": "OuterRim_ImperialArmyCap",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "imperialarmycuirass",
       "category": "Armor",
       "defname": "OuterRim_ImperialArmyCuirass",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "imperialarmyhelmet",
       "category": "Headgear",
       "defname": "OuterRim_ImperialArmyHelmet",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "imperialarmypauldrons",
       "category": "Armor",
       "defname": "OuterRim_ImperialArmyPauldrons",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "imperialarmyuniform",
       "category": "Apparel",
       "defname": "OuterRim_ImperialArmyUniform",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "imperialcadethelmet",
       "category": "Headgear",
       "defname": "OuterRim_ImperialCadetHelmet",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "imperialcadethelmet(open)",
       "category": "Headgear",
       "defname": "OuterRim_ImperialCadetHelmetAlt",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "imperialcadetuniform",
       "category": "Apparel",
       "defname": "OuterRim_ImperialCadetUniform",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "imperialjetpack",
       "category": "Apparel",
       "defname": "OuterRim_ImperialJetpack",
-      "price": 3025
+      "price": -10
     },
     {
       "abr": "imperialofficercap",
       "category": "Apparel",
       "defname": "OuterRim_ImperialOfficerCap",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "imperialofficercap(black)",
       "category": "Apparel",
       "defname": "OuterRim_ImperialOfficerCap_Black",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "imperialofficercap(white)",
       "category": "Apparel",
       "defname": "OuterRim_ImperialOfficerCap_White",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "imperialofficeruniform",
       "category": "Apparel",
       "defname": "OuterRim_ImperialOfficerUniform",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "imperialofficeruniform(black)",
       "category": "Apparel",
       "defname": "OuterRim_ImperialOfficerUniform_Black",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "imperialofficeruniform(white)",
       "category": "Apparel",
       "defname": "OuterRim_ImperialOfficerUniform_White",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "industrialjetpack",
@@ -5752,139 +5752,139 @@
       "abr": "mandocuirass(heavy)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_Heavy",
-      "price": 2608
+      "price": -10
     },
     {
       "abr": "mandocuirass(neo-crusader)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_NeoCrusader",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandocuirass(niteowl)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_NiteOwl",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandocuirass(simple)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_Simple",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandocuirass(traditional)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_Traditional",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandohelmet(armorer)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Armorer",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(executioner)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Executioner",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(heavy)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Heavy",
-      "price": 2525
+      "price": -10
     },
     {
       "abr": "mandohelmet(imperial)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Imperial",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(neo-crusader)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_NeoCrusader",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(niteowlalt)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_NiteOwlAlt",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(niteowl)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_NiteOwl",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(pilot)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Pilot",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(powertech)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Powertech",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(retrocrusader)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_RetroCrusader",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(simple)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Simple",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(tooka)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Tooka",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandohelmet(traditional)",
       "category": "Headgear",
       "defname": "OuterRim_MandalorianHelmet_Traditional",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandopauldrons(heavy)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_Heavy",
-      "price": 1708
+      "price": -10
     },
     {
       "abr": "mandopauldrons(neo-crusader)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_NeoCrusader",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandopauldrons(niteowl)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_NiteOwl",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandopauldrons(simple)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_Simple",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandopauldrons(traditional)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_Traditional",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "masakari",
@@ -7150,61 +7150,61 @@
       "abr": "rebelfleettrooperhelmet",
       "category": "Headgear",
       "defname": "OuterRim_RebelFleetTrooperHelmet",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "rebelfleettrooperuniform",
       "category": "Apparel",
       "defname": "OuterRim_RebelFleetTrooperUniform",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "rebelforestfatigues",
       "category": "Apparel",
       "defname": "OuterRim_RebelForestFatigues",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "rebelforesthelmet",
       "category": "Headgear",
       "defname": "OuterRim_RebelForestHelmet",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "rebelforestjacket",
       "category": "Apparel",
       "defname": "OuterRim_RebelForestJacket",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "rebelforestponcho",
       "category": "Apparel",
       "defname": "OuterRim_RebelForestPoncho",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "rebeljetpack",
       "category": "Apparel",
       "defname": "OuterRim_RebelJetpack",
-      "price": 3025
+      "price": -10
     },
     {
       "abr": "rebelofficercap",
       "category": "Apparel",
       "defname": "OuterRim_RebelOfficerCap",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "rebelofficerjacket",
       "category": "Apparel",
       "defname": "OuterRim_RebelOfficerJacket",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "rebelofficeruniform",
       "category": "Apparel",
       "defname": "OuterRim_RebelOfficerUniform",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "redisignedstool",
@@ -7216,13 +7216,13 @@
       "abr": "republicblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicBlaster",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "republicblasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicRifle",
-      "price": -10
+      "price": 1442
     },
     {
       "abr": "republicflameprojector",
@@ -7234,7 +7234,7 @@
       "abr": "republicheavyrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicHeavyRifle",
-      "price": -10
+      "price": 2783
     },
     {
       "abr": "republicofficercap",
@@ -7246,7 +7246,7 @@
       "abr": "republicofficercap",
       "category": "Apparel",
       "defname": "OuterRim_OldRepublicOfficerCap",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "republicofficeruniform",
@@ -7258,13 +7258,13 @@
       "abr": "republicofficeruniform",
       "category": "Apparel",
       "defname": "OuterRim_OldRepublicOfficerUniform",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "republicsniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicSniper",
-      "price": -10
+      "price": 1900
     },
     {
       "abr": "republictroopercuirass",
@@ -7690,7 +7690,7 @@
       "abr": "supercommandojetpack",
       "category": "Apparel",
       "defname": "OuterRim_SupercommandoJetpack",
-      "price": 3025
+      "price": -10
     },
     {
       "abr": "t-21repeatingblaster",
@@ -7852,37 +7852,37 @@
       "abr": "colorcrystal(azure)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystalAzure",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "colorcrystal(blue)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystalBlue",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "colorcrystal(cyan)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystalCyan",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "colorcrystal(green)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystal",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "colorcrystal(purple)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystalPurple",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "colorcrystal(yellow)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystalYellow",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "commoninfuser",
@@ -7894,7 +7894,7 @@
       "abr": "curvedlightsaber",
       "category": "Melee weapons",
       "defname": "Force_Lightsaber_Curved",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "customhood",
@@ -7930,7 +7930,7 @@
       "abr": "duallightsaber",
       "category": "Melee weapons",
       "defname": "Force_Lightsaber_Dual",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "ectoplasm",
@@ -7972,7 +7972,7 @@
       "abr": "ewoktabard",
       "category": "Misc",
       "defname": "StarWarsRaces_Ewok_Parka",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "firkranncrystal(silver)",
@@ -8152,7 +8152,7 @@
       "abr": "imperialknightarmor",
       "category": "Armor",
       "defname": "Force_ImpKnight",
-      "price": 3358
+      "price": -10
     },
     {
       "abr": "jedigarb",
@@ -8236,7 +8236,7 @@
       "abr": "lightsaber",
       "category": "Melee weapons",
       "defname": "Force_Lightsaber_Custom",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "lightsaber(ahsokatano)",
@@ -8308,13 +8308,13 @@
       "abr": "lightsabercasing",
       "category": "Items",
       "defname": "PJ_SaberCasing",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "lightsaberinternalcomponents",
       "category": "Items",
       "defname": "PJ_SaberInternal",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "lightsaberpike",
@@ -8326,7 +8326,7 @@
       "abr": "lightsaber(shoto)",
       "category": "Melee weapons",
       "defname": "Force_Lightsaber_Shoto",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "meditationpad(jedi)",
@@ -8908,13 +8908,13 @@
       "abr": "sithhood",
       "category": "Headgear",
       "defname": "PJ_SithHood",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "sithrobes",
       "category": "Apparel",
       "defname": "PJ_Sith_Robe",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "sithstatue",
@@ -8944,7 +8944,7 @@
       "abr": "syntheticcrystal(red)",
       "category": "Saber crystals",
       "defname": "PJ_KyberCrystalRed",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "terentatek",
@@ -8992,7 +8992,7 @@
       "abr": "tl-50heavyrepeater",
       "category": "Ranged weapons",
       "defname": "OuterRim_TL50HeavyRepeaterBlaster",
-      "price": -10
+      "price": 1900
     },
     {
       "abr": "togruta",
@@ -9160,7 +9160,7 @@
       "abr": "vathunaxegun",
       "category": "Ranged weapons",
       "defname": "Outland_VathunAxeGun",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "vathunbanner",
@@ -9172,7 +9172,7 @@
       "abr": "vathunbow",
       "category": "Ranged weapons",
       "defname": "Outland_VathunBow",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "vathuncloak",
@@ -9316,7 +9316,7 @@
       "abr": "vssblastercarbine",
       "category": "Ranged weapons",
       "defname": "OuterRim_VSSBlasterCarbine",
-      "price": -10
+      "price": 1442
     },
     {
       "abr": "wallboxlantern",
@@ -9394,19 +9394,19 @@
       "abr": "westar-18blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_WESTAR18Blaster",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "westar-34blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_WESTAR34Blaster",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "westar-35blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_WESTAR35Blaster",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "wolfmeat",
@@ -9424,7 +9424,7 @@
       "abr": "wookieebandolier(tribalwearversion)",
       "category": "Misc",
       "defname": "StarWarsRaces_Wookiee_Bandolier_Tribalwear",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "wookieemeat",
@@ -9448,7 +9448,7 @@
       "abr": "yanjonzelmarstatue",
       "category": "Art",
       "defname": "OuterRim_SageOfDwartii_YanjonZelmar",
-      "price": -10
+      "price": 1967
     },
     {
       "abr": "yorkshireterriermeat",
@@ -9460,7 +9460,7 @@
       "abr": "yumi",
       "category": "Ranged weapons",
       "defname": "Outland_Yumi",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "z-6jetpack",

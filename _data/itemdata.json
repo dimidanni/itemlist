@@ -3397,7 +3397,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RawHops": {
     "CustomName": null,
@@ -10337,7 +10337,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Biotech",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "SubcoreBasic": {
     "CustomName": null,
@@ -11857,7 +11857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Anomaly",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "GoldenCube": {
     "CustomName": null,
@@ -13057,7 +13057,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_Thrumbo": {
     "CustomName": null,
@@ -13497,7 +13497,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_Dryad_Basic": {
     "CustomName": null,
@@ -29777,7 +29777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Star Wars Races",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_StarWarsRaces_MonCalamari": {
     "CustomName": null,
@@ -29797,7 +29797,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Star Wars Races",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_StarWarsRaces_Rodian": {
     "CustomName": null,
@@ -29817,7 +29817,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Star Wars Races",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_StarWarsRaces_Togruta": {
     "CustomName": null,
@@ -29837,7 +29837,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Star Wars Races",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_StarWarsRaces_Twilek": {
     "CustomName": null,
@@ -29857,7 +29857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Star Wars Races",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_StarWarsRaces_Wookiee": {
     "CustomName": null,
@@ -29877,7 +29877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Star Wars Races",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Psytrainer_Force_Rage": {
     "CustomName": null,

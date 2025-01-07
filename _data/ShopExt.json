@@ -2027,7 +2027,7 @@
       "name": "forcesensitive"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2759,7 +2759,7 @@
       "name": "majordarksideaffinity"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
