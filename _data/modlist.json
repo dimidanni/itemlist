@@ -12,18 +12,6 @@
     "version": "11.0.4"
   },
   {
-    "author": "Neronix17",
-    "name": "Air Generator",
-    "steamId": "2999510318",
-    "version": "1.0.8868.11691"
-  },
-  {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
@@ -34,6 +22,24 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Air Generator",
+    "steamId": "2999510318",
+    "version": "1.0.8868.11691"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neronix17",
@@ -58,6 +64,12 @@
     "name": "Auto Seller",
     "steamId": "1440321094",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neronix17",
@@ -177,7 +189,7 @@
     "author": "Neronix17",
     "name": "Outer Rim - Galactic Republic",
     "steamId": "2971930101",
-    "version": "1.0.8742.18979"
+    "version": "1.0.8888.41624"
   },
   {
     "author": "Neronix17",
@@ -250,12 +262,6 @@
     "name": "Outland - Vathun Nobles",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Pawn Adjuster",
-    "steamId": "3095722491",
-    "version": "1.0.8839.12587"
   },
   {
     "author": "Mehni",
@@ -454,5 +460,17 @@
     "name": "Won Hair Women Retextured",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] Rimdeed® - Pawn Recruitment",
+    "steamId": "2411722784",
+    "version": "1.0.0.0"
   }
 ]
