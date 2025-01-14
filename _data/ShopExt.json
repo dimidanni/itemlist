@@ -1939,7 +1939,7 @@
       "name": "voidfascination"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -1961,7 +1961,7 @@
       "name": "forcesensitive"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -1983,7 +1983,7 @@
       "name": "forceapprentice"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2027,7 +2027,7 @@
       "name": "jedi"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2071,7 +2071,7 @@
       "name": "jediknight"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2115,7 +2115,7 @@
       "name": "jedimaster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2159,7 +2159,7 @@
       "name": "jediconsular"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2203,7 +2203,7 @@
       "name": "sith"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2247,7 +2247,7 @@
       "name": "sithinquisitor"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2291,7 +2291,7 @@
       "name": "sithlord"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2335,7 +2335,7 @@
       "name": "sithmaster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2379,7 +2379,7 @@
       "name": "graypadawan"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2423,7 +2423,7 @@
       "name": "grayjedi"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2467,7 +2467,7 @@
       "name": "graymaster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2533,7 +2533,7 @@
       "name": "thrall"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2559,7 +2559,7 @@
       "name": "majorforcesensitivity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2585,7 +2585,7 @@
       "name": "forcesensitivity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2611,7 +2611,7 @@
       "name": "dullforcesensitivity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2637,7 +2637,7 @@
       "name": "majorlightsideaffinity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2663,7 +2663,7 @@
       "name": "lightsideaffinity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2689,7 +2689,7 @@
       "name": "minorlightsideaffinity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2715,7 +2715,7 @@
       "name": "majordarksideaffinity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
@@ -2741,7 +2741,7 @@
       "name": "darksideaffinity"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 500,
