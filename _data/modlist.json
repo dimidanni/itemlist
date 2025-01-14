@@ -18,28 +18,10 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Air Generator",
-    "steamId": "2999510318",
-    "version": "1.0.8868.11691"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Neronix17",
@@ -48,70 +30,10 @@
     "version": "1.5.8928.40486"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Archotech Genetics",
-    "steamId": "2995858859",
-    "version": "1.0.8871.34446"
-  },
-  {
-    "author": "Supes",
-    "name": "Auto Seller",
-    "steamId": "1440321094",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Celestials",
-    "steamId": "2483263407",
-    "version": "1.5.8880.24761"
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.10.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Terrain",
-    "steamId": "2850840457",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ren7z",
-    "name": "Clean Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Side1iner",
-    "name": "CleaningAreaTemp",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "neronix17",
-    "name": "Clutter Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8847.22466"
   },
   {
     "author": "Dubwise",
@@ -120,46 +42,160 @@
     "version": "1.0.0"
   },
   {
-    "author": "Zeracronius",
-    "name": "Dynamic Trade Interface",
-    "steamId": "3020706506",
-    "version": "1.0.0+49b33f4dc3190af3c1cf78637833bd5fe57c7137"
+    "author": "TwelveBaud",
+    "name": "Dubs Mint Menus Health Tab Patch",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Outland - Genetics",
-    "steamId": "2910172297",
-    "version": "1.0.8856.30125"
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
   },
   {
-    "author": "Neronix17",
-    "name": "Forgotten Realms - Biotech Edition",
-    "steamId": "3068979395",
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Smarter Deconstruction and Mining (Continued)",
+    "steamId": "3261302741",
+    "version": "1.5.5"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ray1203",
+    "name": "SimpleCameraSetting",
+    "steamId": "3232415388",
     "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",
-    "name": "Geothermal Coolers",
-    "steamId": "2554535077",
-    "version": "1.0.8857.30230"
+    "name": "Seamless Embrasures",
+    "steamId": "2290689449",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9113.26296"
+  },
+  {
+    "author": "Side1iner",
+    "name": "CleaningAreaTemp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Supes",
+    "name": "Auto Seller",
+    "steamId": "1440321094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up (with add-on for PUAH)",
+    "steamId": "2034960453",
+    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
   },
   {
     "author": "Neronix17",
-    "name": "Hair Extensions",
+    "name": "Psysight",
+    "steamId": "2842840009",
+    "version": "1.5.8880.26052"
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
     "steamId": null,
     "version": null
   },
   {
-    "author": "latta",
-    "name": "Infusion 2",
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Micro Comms Console",
-    "steamId": null,
-    "version": null
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - The Force",
+    "steamId": "918226861",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Lee",
+    "name": "Star Wars : The Force-Psycast",
+    "steamId": "3100942433",
+    "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",
@@ -175,21 +211,33 @@
   },
   {
     "author": "Neronix17",
+    "name": "Outland - Genetics",
+    "steamId": "2910172297",
+    "version": "1.0.8856.30125"
+  },
+  {
+    "author": "Neronix17",
     "name": "Outer Rim - Galactic Diversity",
     "steamId": "2980427615",
     "version": "1.0.8709.32992"
   },
   {
     "author": "Neronix17",
-    "name": "Outer Rim - Galactic Empire",
-    "steamId": "2919248699",
-    "version": "1.0.8416.41904"
-  },
-  {
-    "author": "Neronix17",
     "name": "Outer Rim - Galactic Republic",
     "steamId": "2971930101",
     "version": "1.0.8888.41624"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] StarWars - Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] StarWars - The Separatist Droid Army",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neronix17",
@@ -205,123 +253,9 @@
   },
   {
     "author": "Neronix17",
-    "name": "Outer Rim - Old Republic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Rebel Alliance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
     "name": "Outer Rim - Soundtrack",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Core",
-    "steamId": "2755501685",
-    "version": "1.1.8838.42330"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Eastborn Empire",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - More Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Motz Coalition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Redburn Pact",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Toxic Forest",
-    "steamId": "2985460903",
-    "version": "1.0.8556.39979"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Vathun Nobles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Psysight",
-    "steamId": "2842840009",
-    "version": "1.5.8880.26052"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry",
-    "steamId": "2007576583",
-    "version": "2.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.15.3.0"
-  },
-  {
-    "author": "neronix17",
-    "name": "Clutter Structures",
-    "steamId": "2008681009",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Seamless Embrasures",
-    "steamId": "2290689449",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Shield Generators",
-    "steamId": "2540563802",
-    "version": "1.0.8884.31897"
-  },
-  {
-    "author": "Arvkus, Proxyer and Lanilor",
-    "name": "Simple Recycling",
-    "steamId": "3239309389",
-    "version": "2.0.0.0+ffabfa2b830bb6f78691287a04f8f2e5b2d79a43"
-  },
-  {
-    "author": "Weilbyte",
-    "name": "Snap Out!",
-    "steamId": "1319782555",
-    "version": "0.9.0"
   },
   {
     "author": "Jecrell and Xen",
@@ -330,26 +264,44 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Xen and Jecrell",
-    "name": "Star Wars - The Force",
-    "steamId": "918226861",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Lee",
-    "name": "Star Wars : The Force-Psycast",
-    "steamId": "3100942433",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Lumi",
-    "name": "Star Wars Lights",
+    "author": "Beasstmann",
+    "name": "Star Wars Animal Collection (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Foggy Morning",
-    "name": "Star Wars Races",
+    "author": "Ren7z",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Almost) Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hanabishi",
+    "name": "In-wall coolers and vents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FantasyFan and Lumi",
+    "name": "Star Wars - Biomes Addon",
+    "steamId": "2298926362",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
@@ -366,16 +318,10 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.5.0"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "ToolkitCreator",
-    "steamId": "2099493475",
-    "version": "1.0.0.0"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
     "author": "SirRandoo",
@@ -384,22 +330,22 @@
     "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
   },
   {
+    "author": "sirrandoo",
+    "name": "ToolkitCreator",
+    "steamId": "2099493475",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.5.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Tweaks Galore",
-    "steamId": "2695164414",
-    "version": "3.0.9046.40132"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
     "author": "Captolamia",
@@ -408,69 +354,15 @@
     "version": "1.5.0.1"
   },
   {
-    "author": "Neronix17",
-    "name": "Vanilla Beards Retextured",
-    "steamId": null,
-    "version": null
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
-    "author": "Neronix17",
-    "name": "Vanilla Hair Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Vanilla Pawns Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
-    "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
-  },
-  {
-    "author": "JI_Won",
-    "name": "Won hair_men",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Won Hair Men Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JI_Won",
-    "name": "Won hair_women ",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Won Hair Women Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf (original) & Kiame (support)",
-    "name": "[KV] Don't stop the music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker and Taranchuk",
-    "name": "[RH2] Rimdeed® - Pawn Recruitment",
-    "steamId": "2411722784",
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
     "version": "1.0.0.0"
   }
 ]

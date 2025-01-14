@@ -186,28 +186,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "infestation",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "predators",
 		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -341,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 64
 }
