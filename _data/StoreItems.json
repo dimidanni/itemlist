@@ -88,7 +88,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "archotecheye",
@@ -2350,7 +2350,7 @@
       "abr": "piano",
       "category": "Recreation",
       "defname": "Piano",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "shieldcore",
@@ -3910,73 +3910,73 @@
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "squirrelmeat",
@@ -8170,7 +8170,7 @@
       "abr": "sithrobes",
       "category": "Apparel",
       "defname": "PJ_Sith_Robe",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "sithstatue",
@@ -8206,7 +8206,7 @@
       "abr": "skeleton",
       "category": "Animals",
       "defname": "VPE_SummonedSkeleton",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "slime",
@@ -8569,18 +8569,6 @@
       "price": -10
     },
     {
-      "abr": "tradereportslog",
-      "category": "Misc",
-      "defname": "ASReportsLog",
-      "price": -10
-    },
-    {
-      "abr": "tradereportsprinter",
-      "category": "Misc",
-      "defname": "ASReportsPrinter",
-      "price": -10
-    },
-    {
       "abr": "turkeymeat",
       "category": "Meat",
       "defname": "Meat_Turkey",
@@ -8881,6 +8869,18 @@
       "price": -10
     },
     {
+      "abr": "tradereportslog",
+      "category": "Misc",
+      "defname": "ASReportsLog",
+      "price": -10
+    },
+    {
+      "abr": "tradereportsprinter",
+      "category": "Misc",
+      "defname": "ASReportsPrinter",
+      "price": -10
+    },
+    {
       "abr": "z-6rotaryblastercannon",
       "category": "Ranged weapons",
       "defname": "OuterRim_Z6RotaryBlaster",
@@ -8893,11 +8893,23 @@
       "price": 5417
     },
     {
+      "abr": "coolingplug",
+      "category": "Security",
+      "defname": "ShieldGen_CoolingPlug",
+      "price": -10
+    },
+    {
+      "abr": "shieldgenerator(astroglide)",
+      "category": "Security",
+      "defname": "ShieldGen_Shield_Astroglide",
+      "price": -10
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": -10
     }
   ],
-  "total": 1483
+  "total": 1485
 }

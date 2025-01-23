@@ -778,13 +778,17 @@
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
-      "stats": [],
+      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "stats": [
+        "+25% global learning factor"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+25% global learning factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1984,7 +1988,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 1,
@@ -2002,7 +2006,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2017,7 +2021,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2028,7 +2032,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 2,
@@ -2046,7 +2050,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2061,7 +2065,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2072,7 +2076,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 3,
@@ -2090,7 +2094,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2105,7 +2109,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2116,7 +2120,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 4,
@@ -2134,7 +2138,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2149,7 +2153,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2160,7 +2164,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 1,
@@ -2204,7 +2208,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 2,
@@ -2248,7 +2252,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 3,
@@ -2292,7 +2296,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 4,
@@ -2336,7 +2340,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 1,
@@ -2354,7 +2358,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -2369,7 +2373,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2380,7 +2384,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 2,
@@ -2398,7 +2402,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -2413,7 +2417,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2424,7 +2428,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 3,
@@ -2442,7 +2446,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -2457,7 +2461,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2468,7 +2472,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 500,
       "degree": 4,
@@ -2486,7 +2490,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -2501,7 +2505,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
