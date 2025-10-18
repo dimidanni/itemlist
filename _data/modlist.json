@@ -3,13 +3,25 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "3513789221",
     "version": "11.0.5"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "vin",
+    "name": "Adaptive Primitive Storage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -24,16 +36,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.6.3.3"
-  },
-  {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+    "author": "Defi",
+    "name": "Auto-Cut Blight - 1.6",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -42,16 +48,46 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
-    "name": "Vanilla Factions Expanded - Medieval 2",
-    "steamId": "3444347874",
-    "version": "1.0.6.0"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Processor Framework",
     "steamId": "3210544395",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "JerryTheCultist",
+    "name": "BoneReapers ReMarrowed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.6.4553.2"
+  },
+  {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors - Unofficial 1.5-1.6",
+    "steamId": "3319844548",
+    "version": "1.4.0.1"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
+    "name": "Vanilla Factions Expanded - Medieval 2",
+    "steamId": "3444347874",
+    "version": "1.0.6.0"
   },
   {
     "author": "SirLalaPyon",
@@ -66,21 +102,123 @@
     "version": null
   },
   {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9416.33549"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "CookieMonster (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan, RedMattis and Alite ect",
+    "name": "Dark Ages : Beasts and Monsters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Dragons of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Bean",
+    "name": "Dwarves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Elves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JalapenoLabs",
+    "name": "Fishing Is Fun",
+    "steamId": "3541736220",
+    "version": "0.1.0.0+1fbc4b947af5a97d11be192018f261b40d27ff75"
+  },
+  {
+    "author": "Bean",
+    "name": "Gnolls of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Goblins of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Grazing Lands",
+    "steamId": "1770268130",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Linnun",
     "name": "Keep Converting",
     "steamId": "3461478214",
     "version": "1.0.0.0"
   },
   {
-    "author": "Epicguru",
-    "name": "Melee Animation",
-    "steamId": "2944488802",
-    "version": "1.0.0+0a51d313ee8254e3ceaee046d87d633cf398d9ce"
+    "author": "SirMashedPotato",
+    "name": "Mashed's Bloodmoon",
+    "steamId": "3523186663",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Dnd Menagerie",
+    "steamId": "2751849453",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.6"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.4.0"
   },
   {
     "author": "Andromeda",
     "name": "Nice Bill Tab",
     "steamId": "3520130671",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
     "version": "1.0.0.0"
   },
   {
@@ -102,14 +240,50 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Bean",
+    "name": "Orks of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
+  },
+  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "3512466087",
     "version": "1.0.17"
   },
   {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+087ba57a51502828a906a94051d99ccb60311f4e"
+  },
+  {
     "author": "MRGames",
     "name": "Removes Skill Decay",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Continued",
+    "steamId": "",
+    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
     "steamId": null,
     "version": null
   },
@@ -120,16 +294,46 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "ray1203",
+    "name": "SimpleCameraSetting",
+    "steamId": "3232415388",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -144,10 +348,22 @@
     "version": "1.6.0"
   },
   {
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.4.3"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "Captolamia",
@@ -156,16 +372,22 @@
     "version": "1.6.0.1"
   },
   {
-    "author": "vin",
-    "name": "Adaptive Primitive Storage",
-    "steamId": null,
-    "version": null
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.9303.23067"
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
+    "author": "BotchJob",
+    "name": "The Profaned",
+    "steamId": "3202008037",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Okagrim",
+    "name": "Undead Legendary Armory",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
@@ -178,5 +400,35 @@
     "name": "Vanilla Skills Expanded",
     "steamId": "3400246558",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "World Tech Level",
+    "steamId": "3414187030",
+    "version": "1.1.6+bf90ea8ff0feda8d371e4abab9ecf71ba95f85b6"
+  },
+  {
+    "author": "Arylice",
+    "name": "[ARY] Automatic Stump Chopping [1.5 - 1.6]",
+    "steamId": "3357749890",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Growable Ambrosia",
+    "steamId": null,
+    "version": null
   }
 ]
