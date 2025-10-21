@@ -1939,7 +1939,7 @@
       "name": "voidfascination"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
@@ -1981,7 +1981,7 @@
       "name": "fighter"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
@@ -2028,7 +2028,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2156,7 +2156,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2284,7 +2284,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2400,7 +2400,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2516,7 +2516,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2632,7 +2632,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2752,7 +2752,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2866,7 +2866,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -2986,7 +2986,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3098,7 +3098,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3210,7 +3210,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3322,7 +3322,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3448,7 +3448,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3568,7 +3568,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3684,7 +3684,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3806,7 +3806,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -3917,9 +3917,9 @@
       "name": "talent:copycat"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy is excellent at wielding all weapons. he could even kill using his little finger.",
@@ -4045,9 +4045,9 @@
       "name": "talent:weaponsmaster"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy is skilled at interacting with and hunting animals. Although not trained for battle, he could put up a good fight if needed.",
@@ -4177,9 +4177,9 @@
       "name": "talent:hunter"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy is an expert at building things. Very few construction works are a challenge to he.",
@@ -4301,9 +4301,9 @@
       "name": "talent:engineer"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy loves making food. Mmmmm...",
@@ -4427,9 +4427,9 @@
       "name": "talent:cook"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy has a wide range of botanical knowledge and decent medical skills.",
@@ -4559,9 +4559,9 @@
       "name": "talent:herbalist"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy considers it a sacred duty to produce the highest quality weapons and apparels possible to contribute to the defense of his homeland.",
@@ -4679,9 +4679,9 @@
       "name": "talent:armourer"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy is adept at archery, but unlike many others he is also relatively competent in craftsmanship.",
@@ -4809,9 +4809,9 @@
       "name": "talent:fletcher"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 7500,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy loves working with and caring for animals, he could never leave an injured animal to die.",
@@ -4941,9 +4941,9 @@
       "name": "talent:veterinarian"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 10000,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy is a skilled fighter. he realised that he could protect his friends and satisfy his curiosity at the same time.",
@@ -5077,9 +5077,9 @@
       "name": "talent:adventurer"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 10000,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy is an architect. he understands that you don't have to be in The Good Place to build The Good Place.",
@@ -5207,9 +5207,9 @@
       "name": "talent:architect"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 10000,
       "removePrice": 0,
       "degree": 0,
       "description": "Cooking is an art, or so Timmy says.",
@@ -5333,9 +5333,9 @@
       "name": "talent:chef"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 10000,
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy took it one step further, realising that he could get paid touching people's naked bodies.",
@@ -5461,9 +5461,9 @@
       "name": "talent:surgeon"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 10000,
       "removePrice": 0,
       "degree": 0,
       "description": "Everyone hates moral philosophy professors, but Timmy certainly isn't one.",
@@ -5586,7 +5586,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -5726,7 +5726,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -5858,7 +5858,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -5978,7 +5978,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -6112,7 +6112,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
@@ -6248,7 +6248,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 0,
       "degree": 0,
