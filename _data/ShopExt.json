@@ -15903,7 +15903,7 @@
       },
       "description": "An undead, bound to the will of a necromantic force, ancient and dangerous.",
       "defName": "OWD_Race_LegionUndead",
-      "enabled": false,
+      "enabled": true,
       "name": "legion undead",
       "price": 2917
     }

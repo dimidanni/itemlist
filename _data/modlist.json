@@ -60,24 +60,6 @@
     "version": null
   },
   {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.6.4553.2"
-  },
-  {
-    "author": "anobs, jecrell and contributors",
-    "name": "JecsTools Unofficial 1.6 BETA",
-    "steamId": "3524247750",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors - Unofficial 1.5-1.6",
-    "steamId": "3319844548",
-    "version": "1.4.0.1"
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -154,12 +136,6 @@
     "name": "Elves of the Rim",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "JalapenoLabs",
-    "name": "Fishing Is Fun",
-    "steamId": "3541736220",
-    "version": "0.1.0.0+1fbc4b947af5a97d11be192018f261b40d27ff75"
   },
   {
     "author": "Bean",
@@ -242,6 +218,12 @@
   {
     "author": "Bean",
     "name": "Orks of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
     "steamId": null,
     "version": null
   },
@@ -350,6 +332,12 @@
   {
     "author": "Zaljerem",
     "name": "JecsLite - A RimWorld of Magic",
+    "steamId": "3312959701",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
     "steamId": null,
     "version": null
   },
