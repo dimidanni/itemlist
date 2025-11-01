@@ -1324,13 +1324,13 @@
       "abr": "t-shirt",
       "category": "Misc",
       "defname": "Apparel_BasicShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "button-downshirt",
       "category": "Misc",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "duster",
@@ -15247,11 +15247,119 @@
       "price": 287
     },
     {
+      "abr": "chainsaw",
+      "category": "Ranged weapons",
+      "defname": "Chainsaw",
+      "price": -10
+    },
+    {
+      "abr": "emperorpearls",
+      "category": "Misc",
+      "defname": "DA_EmperorPearls",
+      "price": 1083
+    },
+    {
+      "abr": "leviathan",
+      "category": "Animals",
+      "defname": "DA_LeviathanCrab",
+      "price": 2417
+    },
+    {
+      "abr": "leviathanhardchitin",
+      "category": "Metallics",
+      "defname": "DA_LeviathanChitin",
+      "price": 10
+    },
+    {
+      "abr": "leviathanwhitestripe",
+      "category": "Meat",
+      "defname": "DA_LeviathanStripes",
+      "price": 5
+    },
+    {
+      "abr": "zombieextract",
+      "category": "Serum",
+      "defname": "ZombieExtract",
+      "price": 17
+    },
+    {
+      "abr": "zombiemeat",
+      "category": "Meat",
+      "defname": "Meat_Zombie",
+      "price": 3
+    },
+    {
+      "abr": "zombieserum10%",
+      "category": "Serum",
+      "defname": "Zombie10Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "ZombieSerumSimple",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "Zombie100Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum20%",
+      "category": "Serum",
+      "defname": "Zombie20Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum30%",
+      "category": "Serum",
+      "defname": "Zombie30Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum40%",
+      "category": "Serum",
+      "defname": "Zombie40Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum50%",
+      "category": "Serum",
+      "defname": "Zombie50Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum60%",
+      "category": "Serum",
+      "defname": "Zombie60Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum70%",
+      "category": "Serum",
+      "defname": "Zombie70Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum80%",
+      "category": "Serum",
+      "defname": "Zombie80Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum90%",
+      "category": "Serum",
+      "defname": "Zombie90Serum",
+      "price": -10
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 2542
+  "total": 2560
 }

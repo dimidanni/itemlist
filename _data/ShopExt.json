@@ -15906,6 +15906,33 @@
       "enabled": true,
       "name": "legion undead",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-60.0C Min comfortable temperature",
+          "+200.0C Max comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic resistance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": true,
+      "name": "Zombie",
+      "price": 1
     }
   ]
 }

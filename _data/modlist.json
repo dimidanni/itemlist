@@ -260,8 +260,8 @@
   {
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
-    "steamId": "",
-    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
+    "steamId": "3526354009",
+    "version": "1.0.0+dfcf49c304d1d32dea51a3eb2e3b9799ab31c030"
   },
   {
     "author": "Sierra",
@@ -286,12 +286,6 @@
     "name": "Search and Destroy (Continued)",
     "steamId": "3232242247",
     "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
   },
   {
     "author": "ray1203",
@@ -400,6 +394,18 @@
     "name": "World Tech Level",
     "steamId": "3414187030",
     "version": "1.1.6+bf90ea8ff0feda8d371e4abab9ecf71ba95f85b6"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Andreas Pardeike and Louize",
+    "name": "Zombieland 1.6",
+    "steamId": "928376710",
+    "version": "4.4.7.0"
   },
   {
     "author": "Arylice",
